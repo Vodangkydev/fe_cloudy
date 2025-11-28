@@ -3,7 +3,7 @@ import VideoCall from "./components/VideoCall";
 import IncomingCall from "./components/IncomingCall";
 import Calling from "./components/Calling";
 import HomePage from "./pages/HomePage";
-import SignUpPage from "./pages/signUppage";
+import SignUpPage from "./pages/SignUppage";
 import LoginPage from "./pages/LoginPage";
 import SettingsPage from "./pages/SettingsPage";
 import ProfilePage from "./pages/ProfilePage";
